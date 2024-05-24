@@ -6,8 +6,8 @@ import PhishingWebsiteDetectionUsingXGBoostAndRFM
 class 24AI836{
     public static void main(String[] args){
         System.out.println("1. Sachin Kumar [Team Leader]");
-        System.out.println("1. Satyam Mishra [Team Member]");
-        System.out.println("1. Shivesh Shivam [Team Member]");
+        System.out.println("2. Satyam Mishra [Team Member]");
+        System.out.println("3. Shivesh Shivam [Team Member]");
     }
 }
 ```
